@@ -1,0 +1,5 @@
+name = "MyModule"
+version = "0.1.0"
+
+[compat]
+julia = "1"
